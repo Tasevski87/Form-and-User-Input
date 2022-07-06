@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Form-and-User-Input/static/css/main.84288441.chunk.css",
+    "main.js": "/Form-and-User-Input/static/js/main.5931192e.chunk.js",
+    "main.js.map": "/Form-and-User-Input/static/js/main.5931192e.chunk.js.map",
+    "runtime-main.js": "/Form-and-User-Input/static/js/runtime-main.189db4bd.js",
+    "runtime-main.js.map": "/Form-and-User-Input/static/js/runtime-main.189db4bd.js.map",
+    "static/js/2.4cd48100.chunk.js": "/Form-and-User-Input/static/js/2.4cd48100.chunk.js",
+    "static/js/2.4cd48100.chunk.js.map": "/Form-and-User-Input/static/js/2.4cd48100.chunk.js.map",
+    "index.html": "/Form-and-User-Input/index.html",
+    "static/css/main.84288441.chunk.css.map": "/Form-and-User-Input/static/css/main.84288441.chunk.css.map",
+    "static/js/2.4cd48100.chunk.js.LICENSE.txt": "/Form-and-User-Input/static/js/2.4cd48100.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.189db4bd.js",
+    "static/js/2.4cd48100.chunk.js",
+    "static/css/main.84288441.chunk.css",
+    "static/js/main.5931192e.chunk.js"
+  ]
+}
